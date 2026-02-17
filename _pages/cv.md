@@ -12,20 +12,18 @@ redirect_from:
 Education
 ======
 * Ph.D Student in Information Science, University of Illinois Urbana-Champaign, 2030 (expected)
-* M.S. in Information Science, Fluminense Federal University, 2025
-* B.S. in Archival Studies, Fluminense Federal University (paused)
-* B.S. in Library and Document, Fluminense Federal University, 2022
+* M.S. in Information Science, Fluminense Federal University - UFF, 2025
+* B.S. in Archival Studies, Fluminense Federal University - UFF (paused)
+* B.S. in Library and Document, Fluminense Federal University - UFF, 2022
 
 Work experience
 ======
   * to be completed
 # * Spring 2024: Academic Pages Collaborator
-  # * GitHub University
   # * Duties includes: Updates and improvements to template
   # * Supervisor: The Users
 
 # * Fall 2015: Research Assistant
-  # * GitHub University
   # * Duties included: Merging pull requests
   # * Supervisor: Professor Hub
 
@@ -37,11 +35,19 @@ Work experience
 Skills
 ======
 # * Skill 1
-# * Skill 2
- # * Sub-skill 2.1
- # * Sub-skill 2.2
- # * Sub-skill 2.3
-# * Skill 3
+ * Languages
+  * Portuguese (Native), English (Fluent: 99/120 in TOEFL iBT), Spanish (Elementary), French (Beginner) and Brazilian Sign Language (Beginner).
+
+ * Teaching platforms
+   * Canvas, Moodle and Google Classroom
+
+ * Library/Archives Platforms
+   * ICA‑AtoM, Pergamum, Alexandria and BNWeb
+
+ * Other Platforms
+  * Canva Design
+  * Jupyter
+  * Visual Studio Code
 
 Publications
 ======

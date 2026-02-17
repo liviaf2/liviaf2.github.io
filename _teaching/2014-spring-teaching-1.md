@@ -1,11 +1,11 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "IS202 - Social Aspects of Info. Tech."
+type: "IS 202 - Social Aspects of Info. Tech."
 permalink: /teaching/2014-spring-teaching-1
-venue: "Fluminense Federal University, Information Science Department"
-date: Aug. 2023 - Mar. 2024
-location: "Niteroi, RJ, Brazil"
+venue: "University of Illinois Urbana-Champaign, iSchool"
+date: Aug. 2025 - current
+location: "Champaign, IL, USA"
 ---
 I assisted with this course for 2 terms: 
 * Aug. 2025 to Dec. 2025 (only grading position) - Supervisor: <a href="https://ischool.illinois.edu/people/madelyn-rose-sanfilippo" target="_blank">Madelyn Rose Sanfilippo </a>
