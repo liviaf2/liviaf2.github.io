@@ -34,7 +34,6 @@ Work experience
   
 Skills
 ======
-# * Skill 1
  * Languages
   * Portuguese (Native), English (Fluent: 99/120 in TOEFL iBT), Spanish (Elementary), French (Beginner) and Brazilian Sign Language (Beginner).
 
