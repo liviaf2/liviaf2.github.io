@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpeg"
-  name             : "she/her"
+  name             : "Livia Ferreira"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student in Information Science"
   location         : "USA and Brazil"
   employer         : "iSchool/UIUC"
   uri              : # URL
