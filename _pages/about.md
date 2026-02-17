@@ -17,17 +17,11 @@ My background is originally in Library Science, though my professional experienc
 
 As a careear goal, I want to contribute with innovative solutions that promote access, preservation, and the ethical use of information in cultural and technological contexts.
 
-If you're interested in collaborating, whether in research, consulting, or project development, check my contact information on the side, I'd love to connect.
+If you're interested in collaborating, whether in research, consulting, or project development, I'd love to connect.
 
 Thanks for coming here!
- 
-======
-
-
-**Markdown generator**
-
 
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Check my contact information on the side.
