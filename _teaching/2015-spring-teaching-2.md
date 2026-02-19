@@ -8,8 +8,8 @@ date: Aug. 2023 - Mar. 2024
 location: "Niteroi, RJ, Brazil"
 ---
 I assisted with this course for 2 terms: 
-* Aug. 2023 to Dec. 2023 - Supervisor: <a href="https://www.professores.uff.br/carlosjuvencio/" target="_blank">Carlos Henrique Juvêncio</a>
 * Jan. 2024 to Mar. 2024 (Summer term) - Supervisor: <a href="https://www.professores.uff.br/carlosjuvencio/" target="_blank">Carlos Henrique Juvêncio</a>
+* Aug. 2023 to Dec. 2023 - Supervisor: <a href="https://www.professores.uff.br/carlosjuvencio/" target="_blank">Carlos Henrique Juvêncio</a>
 
 Activities:
 - Planning and organization of the course

@@ -8,8 +8,8 @@ date: Aug. 2025 - current
 location: "Champaign, IL, USA"
 ---
 I assisted with this course for 2 terms: 
-* Aug. 2025 to Dec. 2025 (only grading position) - Supervisor: <a href="https://ischool.illinois.edu/people/madelyn-rose-sanfilippo" target="_blank">Madelyn Rose Sanfilippo </a>
 * Jan. 2026 - to present - Supervisor: Grant Simpson
+* Aug. 2025 to Dec. 2025 (only grading position) - Supervisor: <a href="https://ischool.illinois.edu/people/madelyn-rose-sanfilippo" target="_blank">Madelyn Rose Sanfilippo </a>
 
 Activities:
 - Grading

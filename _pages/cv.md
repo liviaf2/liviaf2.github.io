@@ -34,37 +34,28 @@ Work experience
   
 Skills
 ======
- * Languages
-  * Portuguese (Native), English (Fluent: 99/120 in TOEFL iBT), Spanish (Elementary), French (Beginner) and Brazilian Sign Language (Beginner).
+ * Languages:
+  Portuguese (Native)
+  English (Fluent: 99/120 in TOEFL iBT), 
+  Spanish (Elementary)
+  French (Beginner)
+  Brazilian Sign Language (Beginner).
 
- * Teaching platforms
-   * Canvas, Moodle and Google Classroom
+ * Learning management systems:
+   Canvas
+   Moodle
+   Google Classroom
 
- * Library/Archives Platforms
-   * ICA‑AtoM, Pergamum, Alexandria and BNWeb
+ * Library/Archives Platforms:
+   ICA‑AtoM
+   Pergamum
+   Alexandria
+   BNWeb
 
- * Other Platforms
-  * Canva Design
-  * Jupyter
-  * Visual Studio Code
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Conferences
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ * Other Platforms:
+   Canva
+   Jupyter
+   Visual Studio Code
   
 Service and leadership
 ======
