@@ -19,43 +19,43 @@ Education
 Work experience
 ======
   * to be completed
-# * Spring 2024: Academic Pages Collaborator
-  # * Duties includes: Updates and improvements to template
-  # * Supervisor: The Users
+   * Spring 2024: Academic Pages Collaborator
+   * Duties includes: Updates and improvements to template
+   * Supervisor: The Users
 
-# * Fall 2015: Research Assistant
-  # * Duties included: Merging pull requests
-  # * Supervisor: Professor Hub
+ * To be completed
+   * Duties included: Merging pull requests
+   * Supervisor: Professor Hub
 
-# * Summer 2015: Research Assistant
-  # * GitHub University
-  # * Duties included: Tagging issues
-  # * Supervisor: Professor Git
+ * To be completed
+   * GitHub University
+   * Duties included: Tagging issues
+   * Supervisor: Professor Git
   
 Skills
 ======
- * Languages:
-  Portuguese (Native)
-  English (Fluent: 99/120 in TOEFL iBT), 
-  Spanish (Elementary)
-  French (Beginner)
-  Brazilian Sign Language (Beginner).
+ * Languages: <br>
+  Portuguese (Native) <br>
+  English (Fluent: 99/120 in TOEFL iBT) <br>
+  Spanish (Elementary) <br>
+  French (Beginner) <br>
+  Brazilian Sign Language (Beginner) <br>
 
- * Learning management systems:
-   Canvas
-   Moodle
-   Google Classroom
+ * Learning management systems: <br>
+   Canvas <br>
+   Moodle <br>
+   Google Classroom <br>
 
- * Library/Archives Platforms:
-   ICA‑AtoM
-   Pergamum
-   Alexandria
-   BNWeb
+ * Library/Archives Platforms: <br>
+   ICA‑AtoM <br>
+   Pergamum <br>
+   Alexandria <br>
+   BNWeb <br>
 
- * Other Platforms:
-   Canva
-   Jupyter
-   Visual Studio Code
+ * Other Platforms: <br>
+   Canva <br>
+   Jupyter <br>
+   Visual Studio Code <br>
   
 Service and leadership
 ======
